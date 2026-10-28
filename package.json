@@ -1,0 +1,21 @@
+{
+  "name": "@agpharmacies/mcp-server",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) server for Arabic drug search, active ingredient alternatives, and pediatric dosage calculation via AG Pharmacies (https://agpharmacies.com)",
+  "homepage": "https://agpharmacies.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahmoudalimohamedali1-cpu/agpharmacies-mcp-server.git"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "medical",
+    "pharmacy",
+    "arabic",
+    "egypt",
+    "drugs",
+    "agpharmacies"
+  ],
+  "license": "MIT"
+}
